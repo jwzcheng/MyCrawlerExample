@@ -24,7 +24,7 @@ import com.github.abola.crawler.CrawlerPack;
  */
 class PttBoard {
 
-	final static String board = "Gossiping";
+	final static String board = "Gossiping"; //the board name
     final static String pttMainPage = "https://www.ptt.cc/bbs/"+board+"/index.html";
     final static String pttIndexPage = "https://www.ptt.cc/bbs/"+board+"/index%s.html";
     
