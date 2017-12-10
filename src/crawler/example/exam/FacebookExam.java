@@ -26,7 +26,7 @@ public class FacebookExam {
 		String uri = 
 				"https://graph.facebook.com/v2.6"
 				+ "/KATOTAKA2.0/posts?fields=id,link,message,created_time,likes.limit(0).summary(total_count),reactions.limit(0).summary(total_count)"
-				+ "&access_token=EAACEdEose0cBAAPcUleGuYB1wh4EXgZAeDZBVpOy0nxbqbNidLZB5pK9HXhyC0gNDUn3ZAHZCldX1ZBLf6BuXl6ZCqPRQm4ZAShSTZBAfZCooaN5mKGiaEgzohzpW0yRROLtqHMSM0KBCLeYNNUbmGW7vhMMZAEZANrbsFANV5waCOyVxFw1pqpXleMCBkeZCI44NCqLrMgOmhx5TnwZDZD";
+				+ "&access_token=EAACEdEose0cBAKkqZBWOYaM9PWnBQsBzbJdwpb4eQBbvhByGFBa10wt2nGhNcbWG1FuFBv4NfytovaB6N5i7pHMw14bucQWrmc8U8Kr54ZBfeula1GRyBPQsG2nPTZBjX3Hnj6XHLNX41UiqIHPIt1Gc0MW88NfL3Xzkgit8jX4ZBitW73eJG6qk65LuLO65GokOsiNFKgZDZD";
 
 
 		Elements elems =
