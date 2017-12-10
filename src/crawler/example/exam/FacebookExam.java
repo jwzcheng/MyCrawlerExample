@@ -25,8 +25,8 @@ public class FacebookExam {
 
 		String uri = 
 				"https://graph.facebook.com/v2.6"
-				+ "/judgead/posts?fields=id,link,message,created_time,likes.limit(0).summary(total_count),reactions.limit(0).summary(total_count)"
-				+ "&access_token=EAACEdEose0cBAAO12nAPwgviZBObi4uQd2AnO0NdVshafZB7RgBTuysgj0Len6UI2hDCPIydIcG2rxSFE6Ng4cAUfl17idP4dzQwZAyoDpsGTZCHJu7f4qR3mCP5U7wN67ciqLQpKlUZAMMUqMWUGX8pbYTPclaJujSblpZBQc7bZBWuzVlR9zI6TuHyxOrtgdGhFwDuyJlUwZDZD";
+				+ "/KATOTAKA2.0/posts?fields=id,link,message,created_time,likes.limit(0).summary(total_count),reactions.limit(0).summary(total_count)"
+				+ "&access_token=EAACEdEose0cBAAPcUleGuYB1wh4EXgZAeDZBVpOy0nxbqbNidLZB5pK9HXhyC0gNDUn3ZAHZCldX1ZBLf6BuXl6ZCqPRQm4ZAShSTZBAfZCooaN5mKGiaEgzohzpW0yRROLtqHMSM0KBCLeYNNUbmGW7vhMMZAEZANrbsFANV5waCOyVxFw1pqpXleMCBkeZCI44NCqLrMgOmhx5TnwZDZD";
 
 
 		Elements elems =
